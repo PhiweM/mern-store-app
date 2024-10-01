@@ -1,13 +1,6 @@
-<h1 align="center">MERN Crash Course 🚀</h1>
+<h1 align="center">MERN STORE FRONT APP 🚀</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
-
-### Setup .env file
-
-```shell
-MONGO_URI=your_mongo_uri
-PORT=5000
-```
 
 ### Run this app locally
 
@@ -20,3 +13,4 @@ npm run build
 ```shell
 npm run start
 ```
+
